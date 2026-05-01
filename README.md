@@ -1,0 +1,1 @@
+Dies ist meine persönliche Portfolio-Webseite, die ich von Grund auf mit HTML5 und CSS3 entwickelt habe. Die Webseite dient dazu, meine Projekte, meine Ausbildung und meine technischen Fähigkeiten im Bereich Softwareentwicklung zu präsentieren.
